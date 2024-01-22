@@ -10,6 +10,26 @@ const linkAry = [
     name: "歐拉角",
     link: "/euler",
   },
+  {
+    name: "光源",
+    link: "/light",
+  },
+  {
+    name: "紋理",
+    link: "/textures",
+  },
+  {
+    name: "字體",
+    link: "/font",
+  },
+  {
+    name: "射線",
+    link: "/raycast",
+  },
+  {
+    name: "太陽系",
+    link: "/solarsystem",
+  }
 ];
 </script>
 

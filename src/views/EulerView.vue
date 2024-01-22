@@ -18,7 +18,7 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 const geometry = new THREE.SphereGeometry(100, 50, 50);
-console.log(geometry);
+
 // 匯入材質
 // image source: https://www.deviantart.com/kirriaa/art/Free-star-sky-HDRI-spherical-map-719281328
 const texture = new THREE.TextureLoader().load(
